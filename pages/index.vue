@@ -15,7 +15,7 @@
             <p class="text-lg text-white leading-relaxed mb-6">
               Pour en savoir plus sur notre passion, notre histoire et les secrets qui se cachent derrière nos créations.
             </p>
-            <nuxt-link to="/ateliers" class="inline-block px-6 py-3 bg-[#fff4e8] text-[#24170B] rounded-md hover:bg-[#e6d0b9]">
+            <nuxt-link to="/about" class="inline-block px-6 py-3 bg-[#fff4e8] text-[#24170B] rounded-md hover:bg-[#e6d0b9]">
                   À propos
                 </nuxt-link>
           </div>
